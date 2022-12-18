@@ -1,0 +1,14 @@
+To get new repository  into local system;
+
+git clone"https://github.com/Anj880/UIDevelopment-Practice.git"
+
+To share our code from local system to repository:
+
+git status
+git add
+git commit-m"v1"
+git push
+
+After the commit bring back the code to cd UIDevelopment Practice
+git fetch 
+git pull
